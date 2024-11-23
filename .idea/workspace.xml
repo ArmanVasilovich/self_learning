@@ -19,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Pandas/100-pandas-puzzles" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -47,7 +47,7 @@
     "Python.FirstNerualNetwork.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/arman/Desktop/Projects/Python/Self-Learning",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -110,7 +110,7 @@
       <workItem from="1732114749640" duration="2045000" />
       <workItem from="1732129107734" duration="6903000" />
       <workItem from="1732143629448" duration="516000" />
-      <workItem from="1732301702453" duration="1449000" />
+      <workItem from="1732301702453" duration="1801000" />
     </task>
     <task id="LOCAL-00001" summary="Second Commit">
       <option name="closed" value="true" />
